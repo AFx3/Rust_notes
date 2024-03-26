@@ -1,0 +1,1 @@
+This repository is a work in progress and houses LaTeX code for notes on the Rust programming language and its compiler. The information is sourced from official documentation and various papers. The code examples include some from the official book and others developed from scratch.
